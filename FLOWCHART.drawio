@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="_muBPrpG7ApsDm3bkieO">
-        <mxGraphModel dx="1511" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2711" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -12,7 +12,7 @@
                         <mxPoint x="-136" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="_g_-pIgFg-YZKvBXQmOI-8" value="Poudre?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="_g_-pIgFg-YZKvBXQmOI-8" value="métallurgie&lt;div&gt;purification du nickel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-256" y="510" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_g_-pIgFg-YZKvBXQmOI-11" target="_g_-pIgFg-YZKvBXQmOI-79" edge="1">
@@ -45,7 +45,7 @@
                     <mxGeometry x="260" y="690" width="190" height="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fin de vie&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- hypothèse et analyse de cas&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Il éxiste probablement très peu d&#39;informations la dessus sur internet. Nous devrons donc faire des hypothèses et tester plusieurs cas différents&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- il serait pt plus intéressant (et plus facil) de&amp;nbsp; se concentrer que sur le fil de nichrome&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1020" y="690" width="190" height="220" as="geometry"/>
+                    <mxGeometry x="1020" y="690" width="460" height="320" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_g_-pIgFg-YZKvBXQmOI-55" target="_g_-pIgFg-YZKvBXQmOI-56" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -116,7 +116,7 @@
                         <mxPoint x="-16" y="390" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="_g_-pIgFg-YZKvBXQmOI-70" value="Métallurgie&lt;div&gt;mise en forme du fil&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="_g_-pIgFg-YZKvBXQmOI-70" value="Usinage&lt;br&gt;&lt;div&gt;mise en forme du fil&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-96" y="420" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_g_-pIgFg-YZKvBXQmOI-79" target="_g_-pIgFg-YZKvBXQmOI-55" edge="1">
@@ -184,7 +184,7 @@
                     <mxGeometry x="534" y="180" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-100" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ol style=&quot;font-size: 16px; font-weight: 400; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px; list-style-position: outside; list-style-image: none; width: 696px; padding-inline-start: 2em; caret-color: oklch(0.373 0.034 259.733002); color: oklch(0.373 0.034 259.733002); font-family: Inter, &amp;quot;Inter Fallback&amp;quot;;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.5em 0px; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;&lt;i&gt;Hypothèses sur la distribution :&lt;/i&gt;&lt;/strong&gt;&lt;ul style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.75em 0px; padding: 0px; list-style: outside; width: 658px; padding-inline-start: 1em;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.5em 0px; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Canaux de vente :&lt;/strong&gt;&amp;nbsp;Supposons que les résistances chauffantes sont vendues principalement via des magasins de camping spécialisés, des grandes surfaces de bricolage, et des plateformes de commerce en ligne.&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Régions de vente :&lt;/strong&gt;&amp;nbsp;Si Bocamp est une marque européenne, nous pouvons supposer que les produits sont principalement distribués en Europe, avec une concentration potentielle dans les pays où le camping est populaire (France, Allemagne, Pays-Bas, etc.).&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Transport :&lt;/strong&gt;&amp;nbsp;Considérons que les produits sont transportés par camion pour les courtes distances et par train ou bateau pour les longues distances.&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="224" y="860" width="190" height="220" as="geometry"/>
+                    <mxGeometry x="224" y="860" width="786" height="370" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_g_-pIgFg-YZKvBXQmOI-106" target="_g_-pIgFg-YZKvBXQmOI-95" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -201,7 +201,7 @@
                     <mxGeometry x="394" y="180" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-112" value="&lt;h3 style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 24px 0px 16px; padding: 0px; font-size: 1.125em; line-height: 1.5; font-family: Inter, &amp;quot;Inter Fallback&amp;quot;;&quot;&gt;&lt;i&gt;Utilisation&lt;/i&gt;&lt;/h3&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ol style=&quot;font-size: 16px; font-weight: 400; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px; list-style-position: outside; list-style-image: none; width: 696px; padding-inline-start: 2em; caret-color: oklch(0.373 0.034 259.733002); color: oklch(0.373 0.034 259.733002); font-family: Inter, &amp;quot;Inter Fallback&amp;quot;;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.5em 0px; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 1.25em 0px 10px; padding: 0px; white-space: break-spaces; unicode-bidi: isolate;&quot; dir=&quot;auto&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;&lt;i&gt;Hypothèses sur l&#39;utilisation :&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.75em 0px; padding: 0px; list-style: outside; width: 658px; padding-inline-start: 1em;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.5em 0px; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Durée de vie :&lt;/strong&gt;&amp;nbsp;Supposons une durée de vie moyenne de 5 ans pour la résistance chauffante.&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Fréquence d&#39;utilisation :&lt;/strong&gt;&amp;nbsp;Estimons que la résistance est utilisée en moyenne 30 jours par an, principalement pendant les saisons de camping (printemps, été, automne).&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Consommation énergétique :&lt;/strong&gt;&amp;nbsp;Calculons la consommation énergétique quotidienne en fonction de la puissance de la résistance et de la durée d&#39;utilisation quotidienne.&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Mix énergétique :&lt;/strong&gt;&amp;nbsp;Considérons que l&#39;énergie utilisée provient du réseau électrique local. En Europe, le mix énergétique varie :&lt;/i&gt;&lt;ul style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.75em 0px; padding: 0px; list-style: outside; width: 636px; padding-inline-start: 1em;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.5em 0px; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Europe de l&#39;Ouest :&lt;/strong&gt;&amp;nbsp;Mix énergétique moins carboné (plus de renouvelables et de nucléaire).&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Europe de l&#39;Est :&lt;/strong&gt;&amp;nbsp;Mix énergétique plus carboné (plus de charbon et de gaz).&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 1.25em 0px 10px; padding: 0px; white-space: break-spaces; unicode-bidi: isolate;&quot; dir=&quot;auto&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;&lt;i&gt;Calcul de l&#39;impact environnemental :&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.75em 0px; padding: 0px; list-style: outside; width: 658px; padding-inline-start: 1em;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.5em 0px; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Émissions de CO2 :&lt;/strong&gt;&amp;nbsp;Calculons les émissions de CO2 basées sur la consommation énergétique et le mix énergétique local.&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0.25em 0px 0.5em; padding: 0px; padding-inline-start: 0.375em;&quot;&gt;&lt;i&gt;&lt;strong style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--border-color-default,currentColor); border-image: none; margin: 0px; padding: 0px;&quot;&gt;Autres impacts :&lt;/strong&gt;&amp;nbsp;Considérons également les impacts liés à l&#39;extraction des matières premières et à la fabrication de la résistance.&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="500" y="890" width="190" height="220" as="geometry"/>
+                    <mxGeometry x="260" y="1120" width="696" height="490" as="geometry"/>
                 </mxCell>
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-114" value="traitement des polymères" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1074" y="380" width="120" height="60" as="geometry"/>
@@ -234,78 +234,90 @@
                 <mxCell id="_g_-pIgFg-YZKvBXQmOI-122" value="Inox" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1224" y="530" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKz2kePubepipSxSgJpN-1" target="_g_-pIgFg-YZKvBXQmOI-56">
+                <mxCell id="TKz2kePubepipSxSgJpN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TKz2kePubepipSxSgJpN-1" target="_g_-pIgFg-YZKvBXQmOI-56" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-1" value="Canaux de vente : &amp;nbsp;magasin de camping ou en ligne" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="TKz2kePubepipSxSgJpN-1" value="Canaux de vente : &amp;nbsp;magasin de camping ou en ligne" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="460" y="640" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKz2kePubepipSxSgJpN-2" target="_g_-pIgFg-YZKvBXQmOI-56">
+                <mxCell id="TKz2kePubepipSxSgJpN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TKz2kePubepipSxSgJpN-2" target="_g_-pIgFg-YZKvBXQmOI-56" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-2" value="Région de vente : France, Allemagne, Pays-Bas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="TKz2kePubepipSxSgJpN-2" value="Région de vente : France, Allemagne, Pays-Bas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="600" y="640" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKz2kePubepipSxSgJpN-5" target="_g_-pIgFg-YZKvBXQmOI-57">
+                <mxCell id="TKz2kePubepipSxSgJpN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TKz2kePubepipSxSgJpN-5" target="_g_-pIgFg-YZKvBXQmOI-57" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-5" value="Durée de vie : 5 ans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="TKz2kePubepipSxSgJpN-5" value="Durée de vie : 5 ans" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="750" y="620" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-6" value="Fréquence d&#39;utilisation : 30 jours par an" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="TKz2kePubepipSxSgJpN-6" value="Fréquence d&#39;utilisation : 30 jours par an" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="890" y="590" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKz2kePubepipSxSgJpN-7" target="_g_-pIgFg-YZKvBXQmOI-57">
+                <mxCell id="TKz2kePubepipSxSgJpN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TKz2kePubepipSxSgJpN-7" target="_g_-pIgFg-YZKvBXQmOI-57" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="794" y="430"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="TKz2kePubepipSxSgJpN-7" value="Mix énergétique : nucléaire et renouvelables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="TKz2kePubepipSxSgJpN-7" value="Mix énergétique : nucléaire et renouvelables" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="740" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Minerai nickel sulfuré" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="Minerai nickel sulfuré" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-300" y="1280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="18">
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4" target="18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Minerai nickel oxydé" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="Minerai nickel oxydé" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-101" y="1280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="8">
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Pyrométallurgie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="5" value="Pyrométallurgie" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-300" y="1370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="10">
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8" target="10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="matte de nickel&lt;div&gt;(sulfure de nickel)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8" value="matte de nickel&lt;div&gt;(sulfure de nickel)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-300" y="1460" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="12">
+                <mxCell id="17" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Hydrométallurgie&lt;div&gt;(pas intéressant dans notre cas : composé pur)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="10" value="Hydrométallurgie&lt;div&gt;(pas intéressant dans notre cas : composé pur)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-300" y="1540" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Nickel pure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="12" value="Nickel pure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-300" y="1620" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="Pyrométallurgie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="18" value="Pyrométallurgie" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-101" y="1370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="matte de nickel&lt;div&gt;(sulfure de nickel)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="19" value="matte de nickel&lt;div&gt;(sulfure de nickel)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-101" y="1470" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="19">
+                <mxCell id="21" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="18" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="22" target="_g_-pIgFg-YZKvBXQmOI-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Eau" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-340" y="610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="23" target="_g_-pIgFg-YZKvBXQmOI-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Energie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-200" y="610" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
