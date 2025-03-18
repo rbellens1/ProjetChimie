@@ -36,7 +36,7 @@ def compute_resistance(U, I):
 
     return U_pred, R, mse
 
-def plot_linear_regression(U, I, U_pred):
+def plot_linear_regression(U, I, U_pred,T):
     """
     Plots a linear regression of U(I) based on vectors of measurements.
 
@@ -50,7 +50,7 @@ def plot_linear_regression(U, I, U_pred):
     plt.plot(I, U_pred, color='orange', label='Linear Regression')
     plt.xlabel('I [A]')
     plt.ylabel('U [V]')
-    plt.title('U(I) Linear Regression')
+    plt.title('U(I) Linear Regression with T = ' + str(T)+ '[K]')
     plt.legend()
     plt.grid(True, linestyle='dashed')
     plt.show()
@@ -83,7 +83,7 @@ def plot_conductivity(T, sigma):
 
     # Plot the conductivity as a function of temperature
     plt.scatter(T, sigma, color='blue')
-    plt.xlabel('T [°C]')
+    plt.xlabel('T [K]')
     plt.ylabel('σ [S/m]')
     plt.title('Conductivity as a function of Temperature')
     plt.grid(True, linestyle='dashed')
@@ -91,12 +91,21 @@ def plot_conductivity(T, sigma):
 
 # Example usage:
 nbr_of_materials = 3
-T = [20, 30, 40]
-U = [[1.2, 2.3, 3.1, 4.8, 5.6], [1.2, 2.3, 3.1, 4.8, 5.6], [1.2, 2.3, 3.1, 4.8, 5.6]]
-I = [[0.5, 1.0, 1.5, 2.0, 2.5], [0.5, 1.0, 1.5, 2.0, 2.5], [0.5, 1.0, 1.5, 2.0, 2.5]]
+T = [293, 303, 313] # Kelvin
+U = [[1.2, 2.3, 3.1, 4.8, 5.6], [1.2, 2.3, 4.8, 5.6], [1.2, 2.3, 3.1, 4.8, 5.6]] 
+I = [[0.5, 1.0, 1.5, 2.0, 2.5], [0.5, 1.0, 2.0, 2.5], [0.5, 1.0, 1.5, 2.0, 2.5]]
 S = 1
 L = 1
 
+nbr_of_materials = 3
+T = [ , , ] # Kelvin
+t = [[23,29,45]]    
+U = [[0.524, 2.247,4.150 ,4.848  ], [], []] 
+I = [[0.1,  0.5   ,1     ,1.2 #fil rouge#,  ], []], []]
+S = np.pi*(0.00017/2)**2 #[m^2]
+L = 0.05  #[m]
+
+print
 R = np.zeros(nbr_of_materials)
 sigma = np.zeros(nbr_of_materials)
 mse = np.zeros(nbr_of_materials)
@@ -104,7 +113,7 @@ U_pred = [None] * nbr_of_materials
 
 for idx in range(nbr_of_materials):
     U_pred[idx], R[idx], mse[idx] = compute_resistance(U[idx], I[idx])
-    plot_linear_regression(U[idx], I[idx], U_pred[idx])
+    plot_linear_regression(U[idx], I[idx], U_pred[idx],T[idx])
     sigma[idx] = compute_conductivity(R[idx], S, L)
 
 plot_conductivity(T, sigma)
