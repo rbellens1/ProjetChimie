@@ -89,13 +89,7 @@ def plot_conductivity(T, sigma):
     plt.grid(True, linestyle='dashed')
     plt.show()
 
-# Example usage:
-nbr_of_materials = 3
-T = [293, 303, 313] # Kelvin
-U = [[1.2, 2.3, 3.1, 4.8, 5.6], [1.2, 2.3, 4.8, 5.6], [1.2, 2.3, 3.1, 4.8, 5.6]] 
-I = [[0.5, 1.0, 1.5, 2.0, 2.5], [0.5, 1.0, 2.0, 2.5], [0.5, 1.0, 1.5, 2.0, 2.5]]
-S = 1
-L = 1
+
 
 nbr_of_materials = 3
 T = [ , , ] # Kelvin
