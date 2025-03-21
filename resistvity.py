@@ -114,8 +114,20 @@ for i in range(n_samples):
 rho_pred,drhodT,mse = compute_drhodT(rho,T)
 plot_resistivity(rho,T,rho_pred)
 
-
+T2= [30,  100   ,195  ,320 ]  # à 320 fil rouge
 
 I3 = [0.08,0.15,0.21 ,0.25,0.29,0.34,0.40,0.45,0.49, 0.55,0.60,0.65,0.70,0.75 ]
 U3 = [0.453,0.764,1.1,1.3,1.47,1.76,2.02, 2.32, 2.52,2.78,3.02,3.26,3.58,3.78 ]
 
+rho = [0]* len(I3)
+T = [0]* len(I3)
+for i in range(len(I3)):
+    R = U3[i]/I3[i]
+    rho[i] = R*S/L
+    
+T = np.interp(I3, I, T2)
+# plt.scatter(U3, rho, color='blue')
+# plt.scatter(I3, rho, color='red')
+# plt.show()
+plt.scatter(T, rho, color='blue')
+plt.show()
